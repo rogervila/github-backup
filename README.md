@@ -1,2 +1,3 @@
 # github-backup
-WIP
+
+Original idea: https://addyosmani.com/blog/backing-up-a-github-account/ 
